@@ -26,7 +26,7 @@ Technologies Used:
 
   <summary> 📍 Pinterest - Pinterest clone created with Ruby Rails, Javascript, and React </summary>
   </br>
-  <a href="[https://rem32.herokuapp.com/#/](https://pinteresting-fs.herokuapp.com/#/)" target="_blank" title="Pinteresting - Pinterest clone"><img src=https://github.com/deborahwei/deborahwei/blob/main/pinteresting.png" ></a>
+  <a href="[https://rem32.herokuapp.com/#/](https://pinteresting-fs.herokuapp.com/#/)" target="_blank" title="Pinteresting - Pinterest clone"><img src="https://github.com/deborahwei/deborahwei/blob/main/pinteresting.png" ></a>
   </br>
 
 Technologies Used:
