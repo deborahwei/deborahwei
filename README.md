@@ -6,7 +6,7 @@ Check out some of my projects:
 
 <details>
 
-  <summary> 🌳 Dendriform - Recursion tree-visualizer built with vanilla Javascript</summary>
+  <summary> 🌳  Dendriform - Recursion tree-visualizer built with vanilla Javascript</summary>
   </br>
   <a href="https://deborahwei.github.io/dendriform-recursion-visualizer/" target="_blank" title="Dendriform - Recursion Visualizer"><img src="./assets/REM32.png" ></a>
   </br>
@@ -48,7 +48,7 @@ Technologies Used:
 
 <details>
 
-  <summary> 🐈‍⬛ - MERN application for engineers to practice Leetcode using live chat and live IDE share functionality </summary>
+  <summary> 🐈‍⬛  MERN application for engineers to practice Leetcode using live chat and live IDE share functionality </summary>
   </br>
   <a href="[https://picka-pet.herokuapp.com/#/](https://concat-mern.herokuapp.com/)" target="_blank" title=".concat- MERN app"><img src="./assets/pickapet.png" ></a>
   </br>
