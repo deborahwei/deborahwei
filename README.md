@@ -2,7 +2,7 @@
 
 ### 👩🏻‍💻 Check out my portfolio site at []()
 
-Check out some of my projects:
+### 🧩 Projects:
 
 <details>
 
@@ -70,13 +70,13 @@ Technologies Used:
 
 </details>
 
-## ⚙️ GitHub Stats:
+### ⚙️ GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborahwei&theme=tokyonight)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=deborahwei&theme=tokyonight)
 
-## 📧 Contact Me:
+### 📧 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dew354@nyu.edu)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-wei-163b10152/)
