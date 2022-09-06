@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Deborah Wei</h1>
+<h1 align="center">Hi there 👋, I'm Deborah Wei</h1>
 
 - 👨‍💻 Check out my portfolio site at [](https://alancln.dev)
 
