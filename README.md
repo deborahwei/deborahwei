@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=satisfy&size=40&pause=2000&color=42855B&width=435&lines=I+am+Deborah+Wei)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&size=40&pause=2000&color=42855B&width=435&lines=I+am+Deborah+Wei)](https://git.io/typing-svg)
 
 ### 👩🏻‍💻 Check out my portfolio site at []()
 
