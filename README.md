@@ -1,4 +1,4 @@
-<h1 align="center"> Why hello, I'm Deborah Wei</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Why+hello+there,+I+Deborah+Wei](https://git.io/typing-svg)
 
 ### 👩🏻‍💻 Check out my portfolio site at []()
 
