@@ -26,7 +26,7 @@ Technologies Used:
 
   <summary> 📍 Pinterest - Pinterest clone created with Ruby Rails, Javascript, and React </summary>
   </br>
-  <a href="[https://rem32.herokuapp.com/#/](https://pinteresting-fs.herokuapp.com/#/)" target="_blank" title="Pinteresting - Pinterest clone"><img src="./assets/REM32.png" ></a>
+  <a href="[https://rem32.herokuapp.com/#/](https://pinteresting-fs.herokuapp.com/#/)" target="_blank" title="Pinteresting - Pinterest clone"><img src=https://github.com/deborahwei/deborahwei/blob/main/pinteresting.png" ></a>
   </br>
 
 Technologies Used:
@@ -50,7 +50,7 @@ Technologies Used:
 
   <summary> 🐈‍⬛  MERN application for engineers to practice Leetcode using live chat and live IDE share functionality </summary>
   </br>
-  <a href="[https://picka-pet.herokuapp.com/#/](https://concat-mern.herokuapp.com/)" target="_blank" title=".concat- MERN app"><img src="./assets/pickapet.png" ></a>
+  <a href="[https://picka-pet.herokuapp.com/#/](https://concat-mern.herokuapp.com/)" target="_blank" title=".concat- MERN app"><img src="https://github.com/deborahwei/deborahwei/blob/main/concat.png" ></a>
   </br>
 
 Technologies Used:
