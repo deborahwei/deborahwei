@@ -8,7 +8,7 @@ Check out some of my projects:
 
   <summary> 🌳  Dendriform - Recursion tree-visualizer built with vanilla Javascript</summary>
   </br>
-  <a href="https://deborahwei.github.io/dendriform-recursion-visualizer/" target="_blank" title="Dendriform - Recursion Visualizer"><img src="[./assets/REM32.png](https://github.com/deborahwei/deborahwei/blob/main/dendriform.png)" ></a>
+  <a href="https://deborahwei.github.io/dendriform-recursion-visualizer/" target="_blank" title="Dendriform - Recursion Visualizer"><img src="https://github.com/deborahwei/deborahwei/blob/main/dendriform.png" ></a>
   </br>
 
 Technologies Used:
