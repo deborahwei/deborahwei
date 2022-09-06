@@ -1,8 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Deborah Wei</h1>
+<h1 align="center"> Why hello, I'm Deborah Wei</h1>
 
-- 👨‍💻 Check out my portfolio site at [](https://alancln.dev)
+- 👩🏻‍💻 Check out my portfolio site at []()
 
-- 📫 You can reach me at **dew354@gmail.com**
+Check out some of my projects:
+
+<details>
+
+  <summary> Dendriform - Recursion tree-visualizer built with vanilla Javascript which allows for users to input their own functions or select one of the default functions.</summary>
+  </br>
+  <a href="https://deborahwei.github.io/dendriform-recursion-visualizer/" target="_blank" title="Dendriform - Recursion Visualizer"><img src="./assets/REM32.png" ></a>
+  </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +21,14 @@
 
 <h3 align="left">Github Stats:</h3>
 
+## ⚙️ GitHub Stats:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborahwei&theme=tokyonight)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=deborahwei&theme=tokyonight)
+
+## 📧 Contact Me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dew354@nyu.edu)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-wei-163b10152/)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/deborahwei)
