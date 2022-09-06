@@ -10,6 +10,7 @@ Check out some of my projects:
   </br>
   <a href="https://deborahwei.github.io/dendriform-recursion-visualizer/" target="_blank" title="Dendriform - Recursion Visualizer"><img src="https://github.com/deborahwei/deborahwei/blob/main/dendriform.png" ></a>
   </br>
+  </br>
 
 Technologies Used:
 
@@ -28,7 +29,7 @@ Technologies Used:
   </br>
   <a href="[https://rem32.herokuapp.com/#/](https://pinteresting-fs.herokuapp.com/#/)" target="_blank" title="Pinteresting - Pinterest clone"><img src="https://github.com/deborahwei/deborahwei/blob/main/pinteresting.png" ></a>
   </br>
-
+  </br>
 Technologies Used:
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -52,7 +53,7 @@ Technologies Used:
   </br>
   <a href="[https://picka-pet.herokuapp.com/#/](https://concat-mern.herokuapp.com/)" target="_blank" title=".concat- MERN app"><img src="https://github.com/deborahwei/deborahwei/blob/main/concat.png" ></a>
   </br>
-
+  </br>
 Technologies Used:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
