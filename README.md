@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zeyada&size=40&pause=2000&color=42855B&width=435&lines=I+am+Deborah+Wei.)](https://git.io/typing-svg)
 
-### 👩🏻‍💻 Check out my portfolio site at []()
+### 👩🏻‍💻 Check out my portfolio site at [](https://deborahwei.dev/)
 
 ### 🧩 Projects:
 
