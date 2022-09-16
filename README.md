@@ -49,7 +49,7 @@ Technologies Used:
 
 <details>
 
-  <summary> 🐈‍⬛  MERN application for engineers to practice Leetcode using live chat and live IDE share functionality </summary>
+  <summary> 🐈‍ MERN application for engineers to practice Leetcode using live chat and live IDE share functionality </summary>
   </br>
   <a href="[https://picka-pet.herokuapp.com/#/](https://concat-mern.herokuapp.com/)" target="_blank" title=".concat- MERN app"><img src="https://github.com/deborahwei/deborahwei/blob/main/concat.png" ></a>
   </br>
