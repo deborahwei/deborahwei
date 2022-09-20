@@ -74,7 +74,7 @@ Technologies Used:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborahwei&theme=tokyonight)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=deborahwei&theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=deborahwei&theme=tokyonight&count_private=true)
 
 ### 📧 Contact Me
 
